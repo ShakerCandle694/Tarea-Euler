@@ -1,0 +1,15 @@
+C:\Users\solis\Downloads\Tarea-Euler\bin\Debug\net8.0\Tarea-Euler.exe
+C:\Users\solis\Downloads\Tarea-Euler\bin\Debug\net8.0\Tarea-Euler.deps.json
+C:\Users\solis\Downloads\Tarea-Euler\bin\Debug\net8.0\Tarea-Euler.runtimeconfig.json
+C:\Users\solis\Downloads\Tarea-Euler\bin\Debug\net8.0\Tarea-Euler.dll
+C:\Users\solis\Downloads\Tarea-Euler\bin\Debug\net8.0\Tarea-Euler.pdb
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.AssemblyInfoInputs.cache
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.AssemblyInfo.cs
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.csproj.CoreCompileInputs.cache
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.sourcelink.json
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.dll
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\refint\Tarea-Euler.dll
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.pdb
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\Tarea-Euler.genruntimeconfig.cache
+C:\Users\solis\Downloads\Tarea-Euler\obj\Debug\net8.0\ref\Tarea-Euler.dll
