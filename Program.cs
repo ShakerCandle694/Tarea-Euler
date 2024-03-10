@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        Console.Clear();
+        //Hola que hace
         Console.WriteLine("=== La Fórmula de Euler ===\n --> e^ix = cos(x) + i*sin(x) <-- ");
         Console.WriteLine("\n- e es la base de los logaritmos naturales.");
         Console.WriteLine("- i es la unidad imaginaria.");
