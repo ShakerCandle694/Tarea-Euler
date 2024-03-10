@@ -15,26 +15,34 @@ class Program
         string? input;
         double x;
         
-        do
-        {
-            input = Console.ReadLine();
+    do
+    {
+    input = Console.ReadLine();
 
-            if (input?.Trim().ToLower() == "pi") //Aqui se verifica si es PI
-            {
-                x = Math.PI;
-                Console.WriteLine("\nHas ingresado 'pi'. Utilizaremos π para las demostraciones.");
-                break; //Sale del bucle
-            }
-            else
-            {
-                if (!double.TryParse(input, out x))
-                {
-                    Console.Write("Por favor, ingrese un número válido o 'pi'. \n --> ");
-                }
-                else {break;} //Sale del bucle
-            }
-            
-        } while (true);
+    if (input?.Trim().ToLower() == "pi") //Aqui se verifica si es PI
+    {
+        x = Math.PI;
+        Console.WriteLine("\nHas ingresado 'pi'. Utilizaremos π para las demostraciones.");
+        break; //Sale del bucle
+    }
+    else if (input?.Trim() == "180") //Aqui se verifica si es 180 grados
+    {
+        x = Math.PI; // Convertir 180 grados a radianes (π radianes)
+        Console.WriteLine("\nHas ingresado '180'. Utilizaremos 180° en radianes (π) para las demostraciones.");
+        break; //Sale del bucle
+    }
+    else
+    {
+        if (!double.TryParse(input, out x))
+        {
+            Console.Write("Por favor, ingrese un número válido, 'pi' o '180'. \n --> ");
+        }
+        else 
+        {
+            break; //Sale del bucle
+        }
+    }
+    } while (true);
 
 
         Console.WriteLine($"Presione Enter para calcular cos({x}) y sin({x}).");
@@ -82,7 +90,10 @@ class Program
         }
         else //Sino es pi
         {
+	double result = Math.Cos(x) + Math.Sin(x);
             Console.WriteLine("La Identidad de Euler (e^iπ + 1 = 0) solo se demuestra cuando x es π.");
+            Console.WriteLine($"La suma del coseno de {x} ({Math.Cos(x)}), 4) es y el seno de {x} ({Math.Sin(x)}) es:");
+      	    Console.WriteLine($"-->  {result }");
             Console.WriteLine("\nPresione Enter para finalizar.");
             Console.ReadLine();
         }

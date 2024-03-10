@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\solis\\Downloads\\Tarea-Euler\\Tarea-Euler.csproj": {}
+    "C:\\Users\\solis\\Downloads\\REPOSITORIOS\\Tarea-Euler\\Tarea-Euler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\solis\\Downloads\\Tarea-Euler\\Tarea-Euler.csproj": {
+    "C:\\Users\\solis\\Downloads\\REPOSITORIOS\\Tarea-Euler\\Tarea-Euler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\solis\\Downloads\\Tarea-Euler\\Tarea-Euler.csproj",
+        "projectUniqueName": "C:\\Users\\solis\\Downloads\\REPOSITORIOS\\Tarea-Euler\\Tarea-Euler.csproj",
         "projectName": "Tarea-Euler",
-        "projectPath": "C:\\Users\\solis\\Downloads\\Tarea-Euler\\Tarea-Euler.csproj",
+        "projectPath": "C:\\Users\\solis\\Downloads\\REPOSITORIOS\\Tarea-Euler\\Tarea-Euler.csproj",
         "packagesPath": "C:\\Users\\solis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\solis\\Downloads\\Tarea-Euler\\obj\\",
+        "outputPath": "C:\\Users\\solis\\Downloads\\REPOSITORIOS\\Tarea-Euler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\solis\\AppData\\Roaming\\NuGet\\NuGet.Config",
