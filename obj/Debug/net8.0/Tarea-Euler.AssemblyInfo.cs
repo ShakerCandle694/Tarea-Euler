@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea-Euler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837ffbd2482157a346166558c2d7c05dca6c73d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367e4be945aecfc34e55956eb62ca8ca9b30c202")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea-Euler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea-Euler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
